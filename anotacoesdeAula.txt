@@ -1,0 +1,13 @@
+app a maioria dos codigos
+
+database e o mvc migrations tabelas
+
+public o que o browser
+
+resourcers - view
+
+Toda vez q criar um novo projeto
+
+npm run dev
+
+Toda vez criar uma nova rota

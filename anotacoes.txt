@@ -1,0 +1,20 @@
+//Criando um Projeto
+
+composer create-project --prefer-dist laravel/laravel escola
+
+//Rodar projeto
+
+php artisan serve
+
+//Criando arquivos para usar bootstrap
+npm -i
+
+npm run dev
+
+//criando Controller
+
+php artisan make:controller ExerciciosController
+
+Compact
+
+Forma de passar variaveis da controller para view
